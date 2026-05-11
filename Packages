@@ -1,0 +1,16 @@
+Package: com.minhau.hooktiktok
+Version: 0.0.1-37+debug
+Architecture: iphoneos-arm64e
+Maintainer: HauVipPro
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.minhau.hooktiktok_0.0.1-37+debug_iphoneos-arm64e.deb
+Size: 5140
+MD5sum: ffe20b7e993937f59d591a8dcaa01dfd
+SHA1: 767ca185baa4242307868f5f4936b92a3b63ab08
+SHA256: 6c157773fb78c2b17d7fbf6ccc5e6279737a5147d044fc30cd2fd134add81ce3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak for TikTok!
+Author: HauVipPro
+Name: hookTiktok
+
